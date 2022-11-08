@@ -1,0 +1,12 @@
+﻿  CEdge.cpp
+  CFace.cpp
+  CHalfEdge.cpp
+  CLoop.cpp
+  CSolid.cpp
+  CVertex.cpp
+  Euler.cpp
+  main.cpp
+D:\Desktop\三维CAD\SolidModel\SolidModel\main.cpp(129,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  glad.c
+  SolidModel.vcxproj -> D:\Desktop\三维CAD\SolidModel\Debug\SolidModel.exe
