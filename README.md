@@ -24,7 +24,7 @@
 | CSolid.h    | CSolid.cpp    | 实体类                 |
 | Euler.h     | Euler.cpp     | 五个欧拉操作及扫掠操作 |
 
-另外程序还包含main.cpp源文件，主要实现构建实体，同时利用OpenGL进行图形显示。
+另外程序还包含main.cpp源文件，主要实现构建实体，然后利用OpenGL进行图形显示。
 
 ## 输入文件说明
 
